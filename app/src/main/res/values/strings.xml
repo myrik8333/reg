@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="cart">Cart</string>
+    <string name="products">Products</string>
+    <string name="buy">Buy</string>
+
+    <string name="cart.success.message" formatted="false">You bought %s products from your cart. With total price $%s</string>
+    <string name="dollars.format" formatted="false">$%s</string>
+    <string name="app_name">Android Login and Registration</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="text_info">Фи́рма — это единица предпринимательской деятельности, оформленная юридически и реализующая собственные интересы посредством производства и продажи товаров и услуг с использованием различных факторов производства[1]. Понятия «фирма» и «предприятие» идентичны, если предприятие является самостоятельным юридическим лицом, реализующим свои экономические интересы[1][2][3].
+
+Исторически (в гражданском праве России первой половины XX века) термин «фирма» означал наименование коммерческого товарищества (общества)[4].
+
+Кроме того, этот термин может означать фирменное наименование коммерческой организации или экономический термин, используемый для описания группы индивидуумов, объединившихся для получения экономической выгоды (введён Рональдом Коузом в работе «Природа фирмы» (англ. The Nature of Firm, 1937).</string>
+    <string name="title_activity_service_list">ServiceList</string>
+</resources>
